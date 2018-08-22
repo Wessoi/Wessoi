@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Wessoi Projects",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -448,7 +448,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Packs page is coming soon</span>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO BACK</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">GO BACK</a> ",
           "_tags": [
             "Theme"
           ],
