@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Wessoi Projects",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -893,7 +893,7 @@
           "subtitle": "Connect and send messages to me that I can read and repley back to you other than places like, YouTube and Twitter.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
-            "action": "leerock2750@gmail.com",
+            "action": "contact.wessoi@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
